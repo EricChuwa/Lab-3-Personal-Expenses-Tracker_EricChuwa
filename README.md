@@ -1,1 +1,2 @@
-# Personal Expenses Tracker \nEric Cyril Chuwa
+# Personal Expenses Tracker 
+By: Eric Cyril Chuwa
